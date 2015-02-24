@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdaa710c971bbcc51de6568c003448c0ebe5b7ad">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-fb-v4.3.2-dcbce2935a409764afc26b63f15c2e750568d9f1.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/mta-sdk-1.0.0-b978cf92b859207c53efcd23e66af829d05f28b2.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/open_sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="af16b82c753e70cfea1761c8d43581287887e734">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/open_sdk-3a88d27ea5341a76ec2e143bddcc3c16648731ed.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3b07785e04ffc3ce231da4731594424a07ed936">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-update-v2.4.2-ffaf3044207a76dc1d64f789d1950fbeb3065da7.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/bmob_v3.1.2beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45f4fb0327bbd01044da56dcf8cfb7826ea6e219">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/bmob_v3.1.2beta-9af791121dbd31f030ac0d12dfe3985c06ebf8dd.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/YoumiSdk_v4.09_2014-06-16.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="160f21765370085650cbc089377fecb052903d17">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/YoumiSdk_v4.09_2014-06-16-1e098e6c677837e7df530496e4cadc7f8175f3cf.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-e965ca854f5c26b38b02c76911bc8c4b312e99bc.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9140057eaca588de79a9c3d4ac47e188a3c0dc03">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/com.umeng.message.lib-4cca3d807e4f1223203932aff3a4ca5058e2aa53.jar" />
+    </item>
+    <item
+        jar="/Users/admin/android-sdks/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a36a9147fca5d21f52b0a96a89235a7f0d009e96.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Wonderful2/app/libs/umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.3-a8e0afa9c8ae9c6a6ae5859b34e0be45a3a6381b.jar" />
+    </item>
+
+</items>

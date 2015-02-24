@@ -1,0 +1,11 @@
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/classes/debug
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-fb-v4.3.2-dcbce2935a409764afc26b63f15c2e750568d9f1.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/mta-sdk-1.0.0-b978cf92b859207c53efcd23e66af829d05f28b2.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-update-v2.4.2-ffaf3044207a76dc1d64f789d1950fbeb3065da7.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-e965ca854f5c26b38b02c76911bc8c4b312e99bc.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.2.3-a8e0afa9c8ae9c6a6ae5859b34e0be45a3a6381b.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/open_sdk-3a88d27ea5341a76ec2e143bddcc3c16648731ed.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/YoumiSdk_v4.09_2014-06-16-1e098e6c677837e7df530496e4cadc7f8175f3cf.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/com.umeng.message.lib-4cca3d807e4f1223203932aff3a4ca5058e2aa53.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-a36a9147fca5d21f52b0a96a89235a7f0d009e96.jar
+/Users/admin/Downloads/Wonderful2/app/build/intermediates/pre-dexed/debug/bmob_v3.1.2beta-9af791121dbd31f030ac0d12dfe3985c06ebf8dd.jar
